@@ -1,5 +1,6 @@
 ---
-id: about
+id: index
+title: about
 ---
 
 # Finding, understanding, and mitigating vulnerabilities in domestic and global software supply chains
