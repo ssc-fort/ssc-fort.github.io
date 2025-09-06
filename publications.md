@@ -1,5 +1,6 @@
 ---
 id: publications
+title: publications
 ---
 
 # Publications

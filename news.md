@@ -1,5 +1,6 @@
 ---
 id: news
+title: news
 ---
 
 # News

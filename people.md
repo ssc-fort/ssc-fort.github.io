@@ -1,5 +1,6 @@
 ---
 id: people
+title: people
 ---
 
 # People

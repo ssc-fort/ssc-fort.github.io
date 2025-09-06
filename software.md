@@ -1,5 +1,6 @@
 ---
 id: software
+title: software
 ---
 
 # Software
