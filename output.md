@@ -1,5 +1,5 @@
 ---
-id: software
+id: output
 title: output
 ---
 
