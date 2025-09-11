@@ -6,7 +6,7 @@ title: people
 # People
 
 
-- [Stephen MacDonnell](https://people.wgtn.ac.nz/stephen.macdonell), Professor @ Victoria University of Wellington - Te Herenga Waka. Project Co-Lead. 
+- [Stephen MacDonell](https://people.wgtn.ac.nz/stephen.macdonell), Professor @ Victoria University of Wellington - Te Herenga Waka. Project Co-Lead. 
 - [Jens Dietrich](https://people.wgtn.ac.nz/jens.dietrich/), Associate Professor @ Victoria University of Wellington - Te Herenga Waka. Project Co-Lead. 
 - [Andrew Lensen](https://people.wgtn.ac.nz/andrew.lensen), Senior Lecturer @ Victoria University of Wellington - Te Herenga Waka. Investigator.
 - [Heitor Gomes](https://people.wgtn.ac.nz/heitor.gomes/), Senior Lecturer @ Victoria University of Wellington - Te Herenga Waka. Investigator.
