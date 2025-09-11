@@ -3,6 +3,8 @@ id: index
 title: about
 ---
 
+**`<<form follows function>>`**
+
 # Finding, understanding, and mitigating vulnerabilities in domestic and global software supply chains
 
 
