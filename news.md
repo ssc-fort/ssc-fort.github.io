@@ -5,5 +5,5 @@ title: news
 
 # News
 
-coming soon ..
+The project will start on 1 October 2025 !
 
