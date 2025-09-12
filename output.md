@@ -39,7 +39,17 @@ Details are described in [this paper](https://dl.acm.org/doi/10.1145/3689944.369
 
 
 
+### Deserialisation Vulnerabilities
 
+Those CVEs were discovered as part of Shawn Rasheed's PhD co-supervised by Jens and inspired by the [Evil Pickles study](https://drops.dagstuhl.de/storage/00lipics/lipics-vol074-ecoop2017/LIPIcs.ECOOP.2017.10/LIPIcs.ECOOP.2017.10.pdf). 
+
+- CVE-2018-11797 (PDFBox)
+- CVE-2019-17063 (PDFxStream)
+- CVE-2018-19478 (GhostScript)
+- CVE-2019-20446 (Librvg) 
+- https://github.com/advisories/GHSA-2pr6-76vf-7546  (js-yaml )
+
+We discovered and disclosed the following: PDFBox CVE-2018-11797, PDFxStream CVE-2019-17063, GhostScript CVE-2018-19478 , Librvg CVE-2019-20446, js-yaml https://github.com/advisories/GHSA-2pr6-76vf-7546 
 
 
 
