@@ -1,6 +1,7 @@
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 sidebar:
   - index
+  - tuwhana
   - news
   - people
   - vacancies
