@@ -3,7 +3,17 @@ sidebar:
   - index
   - tuwhana
   - news
-  - people
-  - vacancies
+  - label: people
+    children: 
+      - researchers
+      - students
+      - advisoryboard
   - outputs
+    label: outputs
+    children: 
+      - publications
+      - datasets
+      - software
+      - cves
+  - vacancies
   - publications
