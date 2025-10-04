@@ -8,8 +8,7 @@ sidebar:
       - researchers
       - students
       - advisoryboard
-  - outputs
-    label: outputs
+  - label: outputs
     children: 
       - publications
       - datasets
