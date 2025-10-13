@@ -7,6 +7,7 @@ title: publications
 
 [this includes some relevant work completed before the project started]
 
+- Dhanushka Jayasuriya, Samuel Ou, Saakshi Hegde, **Valerio Terragni**, **Jens Dietrich**, **Kelly Blincoe**: An Extended Study of Syntactic Breaking Changes in the Wild. *Empirical Software Engineering* 2025. [[paper]](https://link.springer.com/content/pdf/10.1007/s10664-024-10563-4.pdf)
 - Hengcheng Zhu, Songqiang Chen, **Valerio Terragni**, Lili Wei, Yepang Liu, Jiarong Wu, Shing-Chi Cheung: LSPFuzz: Hunting Bugs in Language Servers. Accepted for ASE'25. [[preprint]](https://scholar.henryhc.net/files/publications/2025/ASE2025-LSPFuzz.pdf).
 - **Jens Dietrich**, Behnaz Hassanshahi: DALEQ -- Explainable Equivalence for Java Bytecode. Accepted for ASE'25. [[preprint]](https://arxiv.org/abs/2508.01530)
 - **Jens Dietrich**, Tim White, Behnaz Hassanshahi, Paddy Krishnan: Levels of Binary Equivalence for the Comparison of Binaries from Alternative Builds. ICSME'25. [[preprint]](https://arxiv.org/abs/2410.08427)
