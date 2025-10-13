@@ -6,6 +6,12 @@ title: CVEs
 
 [this includes some relevant work completed before the project started]
 
+### Vulnerabilities Discovered in LSPs
+
+CVEs assgined CVE-2025-45695 and CVE-2025-45696
+
+Details are described in [this paper](https://valerio-terragni.github.io/assets/pdf/zhu-ase-2025.pdf).
+
 
 ### Changes to GHSA Entries 
 
@@ -37,11 +43,7 @@ Those CVEs were discovered as part of Shawn Rasheed's PhD co-supervised by Jens 
 - [CVE-2018-19478](https://nvd.nist.gov/vuln/detail/CVE-2018-19478) (GhostScript)
 - [https://github.com/advisories/GHSA-2pr6-76vf-7546](https://github.com/advisories/GHSA-2pr6-76vf-7546)  (js-yaml)
 
-# Vulnerabilities Discovered in LSPs
 
-CVEs assgined CVE-2025-45695 and CVE-2025-45696
-
-Details are described in [this paper](https://valerio-terragni.github.io/assets/pdf/zhu-ase-2025.pdf).
 
 
  
