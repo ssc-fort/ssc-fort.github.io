@@ -22,7 +22,7 @@ The project is structured around three main sets of actions:
 
 - Tools to prioritise software composition results, also improving the utility of [SBOMs](https://www.cisa.gov/sbom). 
 - Tools to compare and assess binary resulting from different builds from the same sources. 
-- Tools to prevent the use of vulenerable AI datasets.
+- Tools to prevent the use of vulnerable AI datasets.
 
 
 ### Adapt, Report and Comply
