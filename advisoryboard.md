@@ -10,4 +10,4 @@ title: advisory board
 - Paddy Krishnan [Director of Software Understanding, Oracle Inc](https://www.linkedin.com/in/paddykrishnan/)
 - John-Daniel Trask [Co-founder & CEO of Raygun, CEO of AutoHive](https://www.linkedin.com/in/jotrask/)
 - Kate Pearce [Head of Security at Trade Me](https://www.linkedin.com/in/securitykate/?originalSubdomain=nz)
-- more coming soon ..
+- Joanne Lu [Partner - Cyber at Deloitte New Zealand](https://www.deloitte.com/nz/en/about/people/profiles.joanne-lu+dd54affb.html)
