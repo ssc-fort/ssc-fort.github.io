@@ -2,7 +2,7 @@
 id: news
 title: news
 ---
-####
+
 # News
 
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
