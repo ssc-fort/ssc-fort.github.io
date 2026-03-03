@@ -17,6 +17,7 @@ title: people
 - [Valerio Terragni](https://profiles.auckland.ac.nz/v-terragni), Senior Lecturer @ University of Auckland. Investigator.
 - [Elliott Wen](https://profiles.auckland.ac.nz/elliott-wen), Lecturer @ University of Auckland. Investigator.
 - [Anders Møller](https://cs.au.dk/~amoeller/), Professor @ Aarhus University. Investigator.
+- Shawn Rasheed, Victoria University of Wellington - Te Herenga Waka. Senior Research Engineer. 
 
 ## Students
 
