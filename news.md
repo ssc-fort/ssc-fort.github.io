@@ -46,6 +46,9 @@ We are delighted to announce that Shawn is joining the project. Shawn holds a Ph
 We are delighted to announce that Tony is joining the project in March as pur project manager.
 Tony is already working for the School of Engineering and Computer Science at Victoria University of Wellington and has worked with many of us already. 
 
+### 12 - 16 Jan 26: Kelly Blincoe attending Lorentz Center Rethinking Software Ecosystems workshop
+
+Kelly Blincoe is attending a workshop at the Lorentz Center in The Netherlands on the topic of [Rethinking Software Ecosystems](https://www.lorentzcenter.nl/rethinking-software-ecosystems.html). She has been invited to give a keynote, titled Beyond the Dependency Graph: Human Factors, Power, and Equity in Software Ecosystems. 
 
 ### 11 Dec 25: Project In-Person Meeting at University of Auckland
 
