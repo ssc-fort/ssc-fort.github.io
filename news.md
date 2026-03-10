@@ -7,6 +7,9 @@ title: news
 
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
+### 11 Mar 26: Maryam Masoudian is joining the Project as Postdoctoral Fellow
+
+We are delighted to announce that [Maryam](https://maryammsd.github.io/) is joining the project as a Postdoctoral Fellow. Maryam brings strong static analysis and software testing expertise. We look forward to welcoming Maryam.
 
 ### 13 Feb 26: Talk at Deloitte
 
