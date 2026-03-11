@@ -11,6 +11,10 @@ Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
 We are delighted to announce that [Maryam](https://maryammsd.github.io/) is joining the project as a Postdoctoral Fellow. Maryam brings strong static analysis and software testing expertise. We look forward to welcoming Maryam.
 
+### 4 Mar 26: Timothee Riom is joining the Project as Postdoctoral Fellow
+
+We are delighted to announce that Timothee is joining our project team as a Postdoctoral Fellow in Wellington. Timothee has a PhD from the University of Luxemburg, and has worked in static and dynamic program analysis, including vulnerability detection.
+
 ### 13 Feb 26: Talk at Deloitte
 
 Jens will give a talk at Deloitte about software supply chain security in Wellington, organised by [Joanne Lu](https://www.linkedin.com/in/joanne-lu-b2423413/?originalSubdomain=nz).
