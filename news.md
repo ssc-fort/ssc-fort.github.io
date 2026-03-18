@@ -40,6 +40,10 @@ This is our first in-person meeting in Wellington in 2026 ! Several advisory boa
 
 Jens will give a talk  at RMIT in Melbourne about software supply chain security.
 
+### 10 Feb 26: USD 78k / NZD 130k Gift by Oracle Inc
+
+Jens has received a gift of USD 78k / NZD 130k from Oracle Inc to continue the work with [Behnaz Hassanshahi](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:2193) on build security, including the ongoing development of [daleq](https://github.com/binaryeq/daleq/). This work is complementary to scc-fort, and will initially focus on python builds.
+ 
 ### 9 Feb 26: SCC-FORT @ OzSe'26 (9-10 Feb 26)
 
 Valerio and Jens are invited speakers at the [Australian Summer School in Software Engineering OzSE'26](https://ozse-school.github.io/) in Melbourne, focussing on AI in Software Engineering. Jens will talk about software supply chain issues, Valerio about metamorphic testing of LLMs. 
