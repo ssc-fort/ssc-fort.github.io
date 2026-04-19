@@ -7,6 +7,13 @@ title: news
 
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
+### 15 April 26: oss-rebuild accepts two pull requests
+
+Elliott Wen and his team are using *oss-rebuild* for Rust/Cargo rebuilds, and started to contributions to improve the success rate of *oss-rebuild*. 
+
+- [https://github.com/google/oss-rebuild/pull/1158](https://github.com/google/oss-rebuild/pull/1158)
+- [https://github.com/google/oss-rebuild/pull/1159](https://github.com/google/oss-rebuild/pull/1159)
+
 ### 11 Mar 26: Maryam Masoudian is joining the Project as Postdoctoral Fellow
 
 We are delighted to announce that [Maryam](https://maryammsd.github.io/) is joining the project as a Postdoctoral Fellow. Maryam brings strong static analysis and software testing expertise. We look forward to welcoming Maryam.
