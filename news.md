@@ -7,6 +7,18 @@ title: news
 
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
+### 28 April 26: NZITF'26 Talk Accepted
+
+Lisa and Jens will give a talk on Software Supply Chain Security at [NZITF'26](https://nzitf.org.nz/).
+
+### 28 April 26: New Research Papers
+
+There are three papers on software supply chain issues co-authored by team members that are either under submission with public preprints available or have been accepted recently:
+
+- **Shawn Rasheed**, Max McPhee, **Lisa Patterson**, **Stephen MacDonell**, **Jens Dietrich**: Hidden Dependencies and Component Variants in SBOM-Based Software Composition Analysis [[preprint]](https://arxiv.org/abs/2604.21278)
+- **Elliott Wen**, **Chenye Ni**, **Valerio Terragni**, **Jens Dietrich**: RustBuildEq: A Benchmark for Binary Equivalence Under Build Variability. AIWare'26. 
+- **Jens Dietrich**, Behnaz Hassanshahi: On the Variability of Source Code in Maven Package Rebuilds.  [SecDev'26](https://conf.researchr.org/home/secdev-2026). [[preprint]](https://arxiv.org/abs/2602.19383) 
+
 ### 15 April 26: oss-rebuild accepts two pull requests
 
 Elliott Wen and his team are using *oss-rebuild* for Rust/Cargo rebuilds, and started to contributions to improve the success rate of *oss-rebuild*. 
