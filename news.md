@@ -21,7 +21,7 @@ There are three papers on software supply chain issues co-authored by team membe
 
 ### 21 April 26: recruitment for upcoming focus groups
 
-Lisa Patterson is recruiting for a series of software supply chain security focus groups, to establish baseline knowledge in NZ. These willtake place during May 2026, and we are seeking participants working in both the private and the public sector, with groups running in Wellington and Auckland. Please contact Lisa Patterson via LinkedIn.
+Lisa Patterson is recruiting for a series of software supply chain security focus groups, to establish baseline knowledge in NZ. These will take place during May 2026, and we are seeking participants working in both the private and the public sector, with groups running in Wellington and Auckland. Please contact [Lisa Patterson via LinkedIn](https://www.linkedin.com/in/lisacpatterson/).
 
 
 ### 15 April 26: oss-rebuild accepts two pull requests
