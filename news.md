@@ -19,6 +19,11 @@ There are three papers on software supply chain issues co-authored by team membe
 - **Elliott Wen**, **Chenye Ni**, **Valerio Terragni**, **Jens Dietrich**: RustBuildEq: A Benchmark for Binary Equivalence Under Build Variability. AIWare'26. 
 - **Jens Dietrich**, Behnaz Hassanshahi: On the Variability of Source Code in Maven Package Rebuilds.  [SecDev'26](https://conf.researchr.org/home/secdev-2026). [[preprint]](https://arxiv.org/abs/2602.19383) 
 
+### 21 April 26: recruitment for upcoming focus groups
+
+Lisa Patterson is recruiting for a series of software supply chain security focus groups, to establish baseline knowledge in NZ. These willtake place during May 2026, and we are seeking participants working in both the private and the public sector, with groups running in Wellington and Auckland. Please contact Lisa Patterson via LinkedIn.
+
+
 ### 15 April 26: oss-rebuild accepts two pull requests
 
 Elliott Wen and his team are using *oss-rebuild* for Rust/Cargo rebuilds, and started to contributions to improve the success rate of *oss-rebuild*. 
