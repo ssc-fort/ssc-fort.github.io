@@ -17,4 +17,4 @@ title: researchers
 - [Anders Møller](https://cs.au.dk/~amoeller/), Professor @ Aarhus University. Investigator.
 - Shawn Rasheed, Victoria University of Wellington - Te Herenga Waka. Senior Research Software Engineer.
 - Timothee Riom, Victoria University of Wellington - Te Herenga Waka. PostDoc.
-- Maryam Masoudian, University of Auckland - Te Herenga Waka. PostDoc. 
+- Maryam Masoudian, University of Auckland. PostDoc. 
