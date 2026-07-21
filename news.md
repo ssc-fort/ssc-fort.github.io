@@ -18,7 +18,7 @@ Researchers of our group presented two papers at FSE satellite conferences, Jens
 
 ### July 26: Visits to NCSU and Queens
 
-Jens visited NCSU (hosted by Laurie Williams) and Queens University (hosted by Gopi Krishnan Rajbahadur) to discuss collaborations. 
+Jens visited NCSU (hosted by Laurie Williams) and Queens University (hosted by Gopi Krishnan Rajbahadur) to discuss collaborations. Jens' gave talks at both universities ([slides](https://docs.google.com/presentation/d/15vH72Z1_o9ku8OoX3Oqfftw69oTDH2UBqHQXx70VnMA/edit?usp=sharing)). 
 
 
 ![Profs Laurie Williams and Dominik Wermke from NCSU with Jens visiting](img/NCSU-jul26.jpg)
