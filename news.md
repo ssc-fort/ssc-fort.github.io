@@ -7,6 +7,23 @@ title: news
 
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
+
+### Upcoming Outreach: NZITF'26 
+
+Lisa and Jens will talk at NZITF'26 on 28 July in Te Papa Wellington about current challenges in Software Supply Chain Security.
+
+### July 26: Talks at FSE
+
+Researchers of our group presented two papers at FSE satellite conferences, Jens @ SecDec and Elliott @ AIWare. 
+
+### July 26: Visits to NCSU and Queens
+
+Jens visited NCSU (hosted by Laurie Williams) and Queens University (hosted by Gopi Krishnan Rajbahadur) to discuss collaborations. 
+
+### 25 June 26: Anders awarded EUR 2.5 million ERC Grant 
+
+Wonderful news: Anders has been awarded a prestigious ERC Advanced Grant and EUR 2.5 million from the European Research Council (ERC) for his project ProSec – Program Analysis for Software Supply Chain Security. Details [here](https://cs.au.dk/news-events/news/show-news/artikel/anders-moeller-awarded-erc-advanced-grant-for-software-supply-chain-security-research).
+
 ### 28 April 26: NZITF'26 Talk Accepted
 
 Lisa and Jens will give a talk on Software Supply Chain Security at [NZITF'26](https://nzitf.org.nz/).
