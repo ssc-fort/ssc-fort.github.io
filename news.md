@@ -20,6 +20,11 @@ Researchers of our group presented two papers at FSE satellite conferences, Jens
 
 Jens visited NCSU (hosted by Laurie Williams) and Queens University (hosted by Gopi Krishnan Rajbahadur) to discuss collaborations. 
 
+
+![Profs Laurie Williams and Dominik Wermke from NCSU with Jens visiting](img/NCSU-jul26.jpg)
+
+
+
 ### 25 June 26: Anders awarded EUR 2.5 million ERC Grant 
 
 Wonderful news: Anders has been awarded a prestigious ERC Advanced Grant and EUR 2.5 million from the European Research Council (ERC) for his project ProSec – Program Analysis for Software Supply Chain Security. Details [here](https://cs.au.dk/news-events/news/show-news/artikel/anders-moeller-awarded-erc-advanced-grant-for-software-supply-chain-security-research).
