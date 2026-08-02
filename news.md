@@ -8,6 +8,24 @@ title: news
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
 
+### 3 August 26:  daleq4py released on PyPi
+
+We're excited to announce the first release of *daleq4py*, now available on [PyPI](https://pypi.org/project/daleq4py/) and [GitHub](https://github.com/binaryeq/daleq4py/).
+
+*daleq4py* is a software supply chain security tool for Python that compares Python packages for equivalence by soundly under-approximating behavioural equivalence. This makes it well suited for detecting whether packages have been compromised during build or deployment.
+
+A common verification strategy is to independently rebuild PyPI packages using tools such as [Macaron](https://github.com/oracle/macaron/) and [OSS-Rebuild](https://github.com/google/oss-rebuild) and compare the resulting artifacts. However, strict bitwise comparison or cryptographic hashes often produce false alarms because benign differences can arise during the build process. daleq4py addresses this challenge by identifying meaningful equivalence beyond byte-for-byte identity.
+
+The tool is based on provenance-preserving Datalog rules and builds on our previous work on Java with [daleq](https://github.com/binaryeq/daleq/) ([ASE'25](https://ieeexplore.ieee.org/abstract/document/11334484)) as well as the broader Levels of Binary Equivalence framework ([ICSME'25](https://ieeexplore.ieee.org/document/11186060/)). A paper describing the tool and comprehensive evaluation experiments can be found on [here](https://arxiv.org/abs/2607.21888).
+
+Many thanks to Behnaz Hassanshahi, Tim White, and Spencer Sun for their contributions to this project!
+
+Feedback, issues, and contributions are very welcome.
+
+
+
+
+
 ### Upcoming Outreach: NZITF'26 
 
 Lisa and Jens will talk at NZITF'26 on 28 July in Te Papa Wellington about current challenges in Software Supply Chain Security.
