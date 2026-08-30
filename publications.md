@@ -9,6 +9,8 @@ title: publications
 
 ### 2026
 
+- **Xiang Guo**, **Shawn Rasheed**, **Heitor Gomes**, **Timothee Riom ** and **Jens Dietrich**: When Models Meet Loaders: Deserialization Risk in Huggingface. Accepted for SCORED'26
+- **Jens Dietrich**, Spencer Sun, Tim White and Behnaz Hassanshahi: No Snake Oil: Verifying Python Package Builds. Accepted for SCORED'26. [[preprint]](https://arxiv.org/abs/2607.21888)
 - **Shawn Rasheed**, Max McPhee, **Lisa Patterson**, **Stephen MacDonell**, **Jens Dietrich**: Hidden Dependencies and Component Variants in SBOM-Based Software Composition Analysis [[preprint]](https://arxiv.org/abs/2604.21278)
 - **Elliott Wen**, **Chenye Ni**, **Valerio Terragni**, **Jens Dietrich**: RustBuildEq: A Benchmark for Binary Equivalence Under Build Variability. AIWare'26. 
 - **Jens Dietrich**, Behnaz Hassanshahi: On the Variability of Source Code in Maven Package Rebuilds.  [SecDev'26](https://conf.researchr.org/home/secdev-2026). [[preprint]](https://arxiv.org/abs/2602.19383)

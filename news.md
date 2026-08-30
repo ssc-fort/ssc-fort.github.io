@@ -8,6 +8,17 @@ title: news
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
 
+### 31 August 26: Two papers accepted for SCORED'26
+
+Two papers co-authored by members of our team have been accepted to the Conference on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED ’26) — a leading conference focused on software supply chain security.
+
+SCORED ’26 will take place in Prague on 6 October 2026, co-located with OpenSSF Community Day Europe.
+
+We’re looking forward to sharing our work and connecting with the software supply chain security community! 
+
+1. Xiang Guo, Shawn Rasheed, Heitor Gomes, Timothee Riom and Jens Dietrich: When Models Meet Loaders: Deserialization Risk in Huggingface
+2. Jens Dietrich, Spencer Sun, Tim White and Behnaz Hassanshahi: No Snake Oil: Verifying Python Package Builds. [[preprint]](https://arxiv.org/abs/2607.21888)
+
 ### 3 August 26:  daleq4py released on PyPi
 
 We're excited to announce the first release of *daleq4py*, now available on [PyPI](https://pypi.org/project/daleq4py/) and [GitHub](https://github.com/binaryeq/daleq4py/).
