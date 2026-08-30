@@ -19,6 +19,8 @@ We’re looking forward to sharing our work and connecting with the software sup
 1. Xiang Guo, Shawn Rasheed, Heitor Gomes, Timothee Riom and Jens Dietrich: When Models Meet Loaders: Deserialization Risk in Huggingface
 2. Jens Dietrich, Spencer Sun, Tim White and Behnaz Hassanshahi: No Snake Oil: Verifying Python Package Builds. [[preprint]](https://arxiv.org/abs/2607.21888)
 
+The second publication is the result of our collaboration with Oracle Labs, and this research was funded by Oracle Inc. 
+
 ### 3 August 26:  daleq4py released on PyPi
 
 We're excited to announce the first release of *daleq4py*, now available on [PyPI](https://pypi.org/project/daleq4py/) and [GitHub](https://github.com/binaryeq/daleq4py/).
