@@ -21,6 +21,14 @@ We’re looking forward to sharing our work and connecting with the software sup
 
 The second publication is the result of our collaboration with Oracle Labs, and this research was funded by Oracle Inc. 
 
+
+### 24 Aug 26: Project In-Person Meeting at the University of Auckland
+
+Spring was in the air at our working meeting at the University of Auckland.
+
+![team at Albert Park near the University of Auckland](img/auckland-aug26.jpg)
+
+
 ### 3 August 26:  daleq4py released on PyPi
 
 We're excited to announce the first release of *daleq4py*, now available on [PyPI](https://pypi.org/project/daleq4py/) and [GitHub](https://github.com/binaryeq/daleq4py/).
@@ -34,8 +42,6 @@ The tool is based on provenance-preserving Datalog rules and builds on our previ
 Many thanks to Behnaz Hassanshahi, Tim White, and Spencer Sun for their contributions to this project!
 
 Feedback, issues, and contributions are very welcome.
-
-
 
 
 
