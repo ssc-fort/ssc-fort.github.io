@@ -9,7 +9,7 @@ Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
 ### 6 October - SCORED'26 & OpenSSF Community Day Europe
 
-We will be at SCORED to talk about our work on the AI supply chain and the build security (the later is collaboration with Oracle) at SCORED in Prague. 
+We will be at SCORED to talk about our work on AI supply chain security and the build security of python packages  (the later is collaboration with Oracle). 
 
 Jens will talk about [When Models Meet Loaders: Deserialization Risk in Huggingface](https://sched.co/2WCR7).
 
