@@ -7,6 +7,19 @@ title: news
 
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
+### 6 October - SCORED'26 & OpenSSF Community Day Europe
+
+We will be at SCORED to talk about our work on the AI supply chain and the build security (the later is collaboration with Oracle) at SCORED in Prague. 
+
+Jens will talk about [When Models Meet Loaders: Deserialization Risk in Huggingface](https://sched.co/2WCR7).
+
+Yibin (Spencer) will talk about [No Snake Oil: Verifying Python Package Builds](https://sched.co/2WCQU).
+
+
+### 25 September
+
+Jens will deliver a key note on binary equivalence at [ProvSec'26](https://provsec-2026.github.io/Provsec2026-base/) on Queenstown. 
+
 
 ### 31 August 26: Two papers accepted for SCORED'26
 
