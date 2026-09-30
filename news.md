@@ -7,7 +7,7 @@ title: news
 
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
-### 30 September 26 - APSEC'26 
+### 30 September 26 - APSEC 2026 
 
 Our empirical paper has been accepted to APSEC 26. In December we will present our paper titled "Software Supply Chain Security Readiness: New Zealand and its Asia-Pacific Neighbours".
 
