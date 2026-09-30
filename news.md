@@ -7,6 +7,11 @@ title: news
 
 Follow our project on [LinkedIn](https://www.linkedin.com/company/ssc-fort) !
 
+### 30 September 26 - APSEC'26 
+
+Our empirical paper has been accepted to APSEC 26. In December we will present our paper titled "Software Supply Chain Security Readiness: New Zealand and its Asia-Pacific Neighbours".
+
+
 ### 6 October - SCORED'26 & OpenSSF Community Day Europe
 
 We will be at SCORED to talk about our work on AI supply chain security and the build security of python packages  (the later is collaboration with Oracle). 
