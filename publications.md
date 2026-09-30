@@ -10,7 +10,7 @@ title: publications
 ### 2026
 
 - **Lisa Patterson**, **Stephen MacDonell**, **Jens Dietrich**, and **Kelly Blincoe**: Software Supply Chain Security Readiness: New Zealand and its Asia-Pacific Neighbours. APSEC 2026.
-- **Xiang Guo**, **Shawn Rasheed**, **Heitor Gomes**, **Timothee Riom ** and **Jens Dietrich**: When Models Meet Loaders: Deserialization Risk in Huggingface. SCORED'26
+- **Xiang Guo**, **Shawn Rasheed**, **Heitor Gomes**, **Timothee Riom** and **Jens Dietrich**: When Models Meet Loaders: Deserialization Risk in Huggingface. SCORED'26
 - **Jens Dietrich**, Spencer Sun, Tim White and Behnaz Hassanshahi: No Snake Oil: Verifying Python Package Builds. SCORED'26. [[preprint]](https://arxiv.org/abs/2607.21888)
 - **Shawn Rasheed**, Max McPhee, **Lisa Patterson**, **Stephen MacDonell**, **Jens Dietrich**: Hidden Dependencies and Component Variants in SBOM-Based Software Composition Analysis [[preprint]](https://arxiv.org/abs/2604.21278)
 - **Elliott Wen**, **Chenye Ni**, **Valerio Terragni**, **Jens Dietrich**: RustBuildEq: A Benchmark for Binary Equivalence Under Build Variability. AIWare'26. 
