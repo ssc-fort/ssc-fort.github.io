@@ -14,6 +14,7 @@ Congratulations to Andrew Lensen, who has received the 2026 Cooper Award from Ro
 The Cooper Award is presented annually to encourage early-career researchers in New Zealand working in technology, applied sciences, or engineering.
 
 Andrew is the first Victoria University of Wellington recipient of the Cooper Award.
+![team at Albert Park near the University of Auckland](img/Andrew Award.jpeg)
 
 ### 30 September 26 - APSEC 2026 
 
