@@ -7,7 +7,7 @@ title: symposium26
 
 Time:		1 December 2026 9:00 AM - 4:30 PM
 
-Venue: 	Victoria University of Wellington, Kelburn Campus, room TBC
+Venue: 	[Victoria University of Wellington, Kelburn Campus Murphy Building MY501](https://www.wgtn.ac.nz/about/campuses-facilities/campuses/kelburn/kelburn-campus-map.pdf)
 
 ## Introduction
 
