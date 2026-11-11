@@ -144,6 +144,6 @@ Resource exhaustion in software is a common cause of denial of service. As the r
 
 ## 3.45pm Closing remarks and thanks
 
-*Stephen MacDonell and Jens Dietrich
+*Stephen MacDonell and Jens Dietrich*
 
 ## 4pm Symposium concludes
