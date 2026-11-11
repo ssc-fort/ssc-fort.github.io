@@ -5,7 +5,7 @@ title: symposium26
 
 # The First New Zealand Symposium on Software Supply Chain Security
 
-Time:		1 December 2026 9:00 AM - 4:30 PM
+Time:		1 December 2026 9.30am - 4pm
 
 Venue: 	[Victoria University of Wellington, Kelburn Campus Murphy Building MY501](https://www.wgtn.ac.nz/about/campuses-facilities/campuses/kelburn/kelburn-campus-map.pdf)
 
