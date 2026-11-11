@@ -54,9 +54,9 @@ We introduce sbomble, a tool platform we are developing to support the use and a
 
 In its current form, sbomble is conceptually similar to existing tools such as OWASP Dependency-Track. We are now developing sbomble into a platform for advanced software supply-chain analysis, with a particular focus on integrating and showcasing research results. This includes capabilities for compliance checks against software supply-chain regulations and standards, as well as analyses of component reproducibility, estimated upgrade effort including automated patchability, provable exploitability of vulnerabilities, and integration of AI supply chains. Our goal is for sbomble to provide a bridge between SBOMs as standardised software inventories and more sophisticated analyses that can support security assessment, compliance, and software supply-chain research.
 
-# 12pm Panel Discussion Moderated by Stephen MacDonell
+# 12pm Panel Discussion 
 
-Our expert panel of Laurie Williams, Cristina Cifuentes, Kelly Blincoe and Jens Dietrich will be providing their perspectives on a range of current related issues. You will have the opportunity to ask your questions to our panel
+Our expert panel of Laurie Williams, Cristina Cifuentes, Kelly Blincoe and Jens Dietrich will be providing their perspectives on a range of current related issues. You will have the opportunity to ask your questions to our panel. Moderated by Stephen MacDonell.
 
 # 12.40pm Lunch and Networking
 A light lunch is provided for those attending in person.
