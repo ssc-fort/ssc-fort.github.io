@@ -9,7 +9,7 @@ Time:		1 December 2026 9.30am - 4pm
 
 Venue: 	[Victoria University of Wellington, Kelburn Campus Murphy Building MY501](https://www.wgtn.ac.nz/about/campuses-facilities/campuses/kelburn/kelburn-campus-map.pdf)
 
-## Introduction
+## Welcome 9.30am
 
 *Jens Dietrich and Stephen MacDonell (Victoria University of Wellington – Te Herenga Waka)*
 
@@ -143,6 +143,7 @@ What tools from the software supply chain can we keep, which ones should we twea
 Resource exhaustion in software is a common cause of denial of service. As the recent PHP2Shell vulnerability illustrates, code that handles resource exhaustion can also introduce more serious vulnerabilities. These risks make it important to understand how resource exhaustion occurs and how software handles it. We examined both aspects in 93 parsing libraries for 24 widely used file and data formats (e.g. YAML, JSON, Markdown, PDF, TrueType) across the Java (Maven), Python (PyPI), Go and JavaScript (npm) ecosystems. We used static analysis to locate instances of a code pattern associated with resource exhaustion. We used those instances as inputs to a large language model to generate test inputs. We then ran the parsers on those inputs to determine whether their behavior led to resource exhaustion and characterised the resulting failure modes, including stack overflows, out-of-memory errors, timeouts, and program crashes. We also characterised the libraries’ mitigations and their effectiveness. Maintainers accepted some of the reported issues as vulnerabilities and performance bugs.
 
 ## 3.45pm Closing remarks and thanks
-*Jens Dietrich
+
+*Stephen MacDonell and Jens Dietrich 
 
 ## 4pm Symposium concludes
