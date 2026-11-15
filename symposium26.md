@@ -113,12 +113,7 @@ Software supply chain security (SSCS) has become a strategic capability for orga
 
 This session will present opportunities for NZ organisations to engage with our work in three areas: (1) practitioner-focused capability development, (2) evaluation of emerging software supply chain security tools, and (3) organisational assessments of SSCS capability.
 
-Developed at the Secure Software Supply Chain Center (S3C2), the Proactive Secure Software Supply Chain Risk Management (P-SSCRM) Framework aims to help organisations understand, quantify, and strengthen their software supply chain risk management initiatives. To support practitioners, we are exploring the potential of a role-aware training platform that translates P-SSCRM practices into personalised, self-paced learning. Informed by feedback from NZ industry partners, the platform will be designed to deliver concise, practical guidance tailored to an individual's role and responsibilities, helping practitioners build capability and turn good practice into everyday action.
-
-We are also seeking collaborators in NZ to trial and evaluate software supply chain security technologies currently under development by our research team, helping assess their practical value in real-world environments and enabling organisations early access to cutting-edge tools to improve SSCS capability.
-Finally, we are seeking to partner with New Zealand organisations to undertake comprehensive P-SSCRM assessments that help identify strengths, uncover improvement opportunities, and prioritise next steps.
-
-This session will highlight practical opportunities to strengthen software supply chain security and resilience through capability development, evaluating emerging technologies, and understanding your organisation's current position.
+Informed by feedback from NZ industry partners, we are exploring ways to deliver concise, practical guidance helping practitioners build capability and turn good practice into everyday action. We will be seeking collaborators in NZ to trial and evaluate software supply chain security technologies under development by our research team, helping assess their practical value in real-world environments and enabling organisations early access to cutting-edge tools to improve SSCS capability. Finally, we are working towards partnering with New Zealand organisations to help identify strengths, uncover improvement opportunities, and prioritise next steps.
 
 
 ## 3.15pm How the Grinch may steal Dependencies
