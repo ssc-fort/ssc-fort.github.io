@@ -9,13 +9,15 @@ Time:		1 December 2026 9.30am - 4pm
 
 Venue: 	[Victoria University of Wellington, Kelburn Campus Murphy Building MY501](https://www.wgtn.ac.nz/about/campuses-facilities/campuses/kelburn/kelburn-campus-map.pdf)
 
-## Welcome 9.30 am
-
-*Jens Dietrich and Stephen MacDonell (Victoria University of Wellington – Te Herenga Waka)*
+## About
 
 The symposium brings together research on software supply chain security with practical approaches to strengthening the software organisations build, use, and maintain. Talks on detecting incomplete vulnerability fixes, investigating resource exhaustion, and repairing breaking changes in dependency updates address closely related challenges: understanding security weaknesses, checking that patches work, and making updates easier to adopt. Presentations on reproducibility in Rust and explainable approaches to binary equivalence explore how practitioners can verify that the packages being used in applications correspond to their source code, even when legitimate differences in build environments complicate comparison. Emerging risks in AI supply chains form another theme, spanning vulnerabilities introduced when loading downloaded models and the possibility that AI-assisted reimplementation of dependencies preserves hidden code connections and security exposures. Foundational contributions include the JavaScript taint-analysis presentation and the talk on how applications (don't) deal with errors resulting from the exhaustion of computational resources. Finally, the work on organisational capability, practitioner training, and industry collaboration, together with the SBOMBLE platform for enriching and analysing software inventories, connects these research themes to practical interventions. For practitioners, the programme offers insights into assessing exposure, validating fixes and builds, prioritising improvements, and evaluating tools that can support everyday security decisions. Throughout the programme, these presentations also showcase how state-of-the-art AI capabilities—including large language models, agentic coding tools, and explainable machine learning—are being harnessed to advance this security research. 
 
 This project does not operate in isolation. Our work on build security is conducted in close collaboration with, and co-funded by, Oracle Inc., building on a long-standing collaboration between Oracle Labs Australia and one of the projects primary investigators. Our work on JavaScript taint analysis is carried out in collaboration with a project funded by a recently awarded major EU ERC grant, led by project member Prof. Anders Møller from Aarhus University. Finally, some of the techniques underpinning our empirical work with local industry and the public service have emerged from the NSF-funded Secure Software Supply Chain Center (S3C2) led by Prof. Laurie Williams at North Carolina State University (NCSU). We are delighted that several of these collaborators will be present at the symposium. Prof. Laurie Williams and Dr Cristina Cifuentes, former VP at Oracle Inc., will deliver keynote talks, while Prof. Anders Møller will present his latest work. The symposium therefore provides a particularly valuable opportunity to bring together researchers from these closely connected projects and collaborations.
+
+## Welcome and Karakia 9.30 am
+
+*Jens Dietrich and Stephen MacDonell (Victoria University of Wellington – Te Herenga Waka)*
 
 # Keynotes 
 
@@ -48,7 +50,9 @@ The central lesson of the past five years is that trust cannot be assumed, threa
 
 Laurie Williams is the Goodnight Distinguished University Professor of Security Sciences in the Computer Science Department of the College of Engineering at North Carolina State University (NCSU). Laurie is the director of the National Science Foundation-sponsored Secure Software Supply Chain Center (S3C2), and co-director of the NSA-sponsored North Carolina Partnership for Cybersecurity Excellence (NC-PaCE) and the NCSU Secure Computing Institute.  Laurie is an IEEE Fellow and an ACM Fellow.  Laurie's research focuses on software security, software processes, and empirical software engineering.
 
-## 11.30 am Technical presentation and demonstration by Jens Dietrich and Shawn Rasheed - sbomble
+## 11.30 am Introducing SBOMBLE -- A Toolkit to Analyse SBOMs
+
+*Jens Dietrich and Shawn Rasheed (Victoria University of Wellington – Te Herenga Waka)*
  
 We introduce sbomble, a tool platform we are developing to support the use and analysis of Software Bills of Materials (SBOMs) produced by a wide range of tools using standardised formats such as SPDX and CycloneDX. Sbomble visualises SBOMs and enriches them with information from multiple external data sources, currently including: (1) Vulnerability data from the current GitHub Security Advisory database and CISA’s Known Exploited Vulnerabilities (KEV) Catalog. This information helps assess vulnerability severity and exploitability, and determine whether vulnerability information contained in an SBOM is complete and up to date. (2) License data from the SPDX License List, enabling checks such as whether component licenses are OSI-approved. (3) Component and project metadata from ecosyste.ms, providing trust and maintenance signals and information about available upgrades and patches. (4) Reproducibility data from reproducible-central.
 
@@ -137,7 +141,7 @@ What tools from the software supply chain can we keep, which ones should we twea
 
 Resource exhaustion in software is a common cause of denial of service. As the recent PHP2Shell vulnerability illustrates, code that handles resource exhaustion can also introduce more serious vulnerabilities. These risks make it important to understand how resource exhaustion occurs and how software handles it. We examined both aspects in 93 parsing libraries for 24 widely used file and data formats (e.g. YAML, JSON, Markdown, PDF, TrueType) across the Java (Maven), Python (PyPI), Go and JavaScript (npm) ecosystems. We used static analysis to locate instances of a code pattern associated with resource exhaustion. We used those instances as inputs to a large language model to generate test inputs. We then ran the parsers on those inputs to determine whether their behavior led to resource exhaustion and characterised the resulting failure modes, including stack overflows, out-of-memory errors, timeouts, and program crashes. We also characterised the libraries’ mitigations and their effectiveness. Maintainers accepted some of the reported issues as vulnerabilities and performance bugs.
 
-## 3.45 pm Closing remarks and thanks
+## 3.45 pm Closing Remarks and Thanks
 
 *Stephen MacDonell and Jens Dietrich*
 
